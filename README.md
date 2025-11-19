@@ -1,1 +1,3 @@
-# proyecto
+pandas
+scipy
+streamlit# proyecto
